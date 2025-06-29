@@ -1,0 +1,1 @@
+This file documents the contents and purpose of the src directory for the exercise_checker_mcp project. 
