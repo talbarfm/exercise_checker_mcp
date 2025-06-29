@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "github-classroom": {
+      "command": "python",
+      "args": ["classroom_mcp_server.py"],
+      "env": {}
+    }
+  }
+} 
